@@ -19,4 +19,7 @@ void main() {
   myCar.carModel = 2020;
 
   myCar.display();
+
+  // MyCar myCar1 = MyCar();
+  // create multiple object and assign values
 }
